@@ -181,7 +181,7 @@ a.pure-button-primary {
     /* These styles are required for the "scroll-over" effect */
     position: absolute;
     top: 99%;
-    width: 130%;
+    width: 120%;
     min-height: 12%;
     z-index: 2;
     background: #66CDAA;
